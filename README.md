@@ -5,4 +5,5 @@ some examples of next.js with different styling libraries
 
 ## styled-components
 
+## glamorous
 

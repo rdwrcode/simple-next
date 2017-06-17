@@ -12,6 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "glamor": "^2.20.25",
+    "glamorous": "^3.23.3",
     "next": "^2.4.3",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",

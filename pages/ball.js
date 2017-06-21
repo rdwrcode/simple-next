@@ -1,3 +1,4 @@
+/* this is css animation */
 import React from 'react'
 
 export default () => (

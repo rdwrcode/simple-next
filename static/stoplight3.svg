@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xml:lang="en"
   height="320px" width="140px" >
-  <!-- drawing goes here -->
+  <!-- draw here -->
   <title>CSS-styled Stoplight</title>
   <style type="text/css">
     rect, circle {
